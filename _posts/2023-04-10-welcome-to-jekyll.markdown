@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 帖子
 title:  "Welcome to Jekyll!"
 date:   2023-04-10 14:23:16 +0800
 categories: jekyll update

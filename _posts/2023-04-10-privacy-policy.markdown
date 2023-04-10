@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 帖子
 title:  "隐私政策"
 date:   2023-04-10 16:23:16 +0800
 categories: normal
